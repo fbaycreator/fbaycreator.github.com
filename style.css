@@ -22,9 +22,7 @@
 }
 
 .bought{
-    float: left;
-    margin-left: 0px;
-    margin-top: 40px;
+    left:30px;
     border-radius: 10px;
     border: 5px solid;
     border-color: lightgray;
