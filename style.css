@@ -11,9 +11,8 @@
     color: white
 }
  .logo{
-    float: right;
+    float: left;
     height: 120px;
-    margin-right: 390px;
 }
 .button{
     width: 300px;
