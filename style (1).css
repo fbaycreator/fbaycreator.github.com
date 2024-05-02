@@ -1,0 +1,55 @@
+.buy{
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+    border-radius: 10px;
+    border: 5px solid;
+    border-color: lightgray;
+}
+.clear{
+    width: 1px;
+    color: white
+}
+ .logo{
+    float: right;
+    height: 120px;
+    margin-right: 390px;
+}
+.button{
+    width: 300px;
+    height: 50px;
+}
+
+.bought{
+    float: left;
+    margin-left: 0px;
+    margin-top: 40px;
+    border-radius: 10px;
+    border: 5px solid;
+    border-color: lightgray;
+    height: 270px;
+    width: 250px;
+}
+.truck{
+    width: 40px;
+    float: left;
+    margin-top: 140px;
+    margin-right: 270px;
+}
+.a1{
+    margin-top: 120px;
+    margin-left: 250px;
+}
+
+.back{
+
+   height: 70px;
+  margin-right: 400px;
+}
+
+.a2{
+    margin-top: 40px;
+    margin-left: 250px;
+}
+
+
