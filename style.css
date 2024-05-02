@@ -1,5 +1,6 @@
 .buy{
     width: 200px;
+    margin: 50px;
     float: left;
     border-radius: 10px;
     border: 5px solid;
@@ -13,6 +14,7 @@
     float: left;
     height: 120px;
     margin-right: 400px;
+     
 }
 .button{
     width: 300px;
