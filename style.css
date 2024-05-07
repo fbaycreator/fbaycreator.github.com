@@ -1,0 +1,170 @@
+.buy{
+    width: 200px;
+    height: 230px;
+    margin: 50px;
+    float: left;
+    border-radius: 10px;
+    border: 5px solid;
+    border-color: lightgray;
+}
+.clear{
+    width: 1px;
+    color: white;
+}
+ .logo{
+    float: left;
+    height: 120px;
+    margin-right: 400px;
+    opacity: 1;
+ }
+
+ 
+  
+  
+.button{
+    width:  350px;
+    height: 50px;
+    filter: brightness(1);
+}
+
+.bought{
+    border-radius: 10px;
+    height: 420px;
+    width: 440px;
+    position:absolute;
+    left:350px;
+    top:280px;
+}
+.gray{
+    border-radius: 10px;
+    height: 420px;
+    width: 700px;
+    position:absolute;
+    left:220px;
+    top:280px;
+    background-color: #D3D3D3;
+}
+.truck{
+    width: 40px;
+    position:absolute;
+    left:940px;
+    top:370px;
+}
+.a1{
+    position:absolute;
+    left:980px;
+    top:370px;
+}
+
+.back{
+   height: 70px;
+   position:absolute;
+   left:215px;
+   top:190px;
+   filter: brightness(1);
+  
+}
+
+.a2{
+    position:absolute;
+    left:940px;
+    top:270px;
+}
+
+.a3{
+    position:absolute;
+    left:940px;
+    top:300px;
+}
+.seller{
+    position:absolute;
+    left:940px;
+    top:320px;
+}
+
+.suggest{
+    position:absolute;
+    left:220px;
+    top:750px;
+}
+.back:hover{
+    filter: brightness(0.75);
+  }
+  .button:hover{
+    filter: brightness(0.85);
+  }
+  .topnav input[type=text] {
+    border: 3px solid;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    position: absolute;
+    left: 250px;
+    top: 50px;
+    height: 40px;
+    width: 1200px;
+  }
+
+  .down1{
+    border-radius: 5px;
+    border: 3px solid;
+    width: 150px;
+    height: 190px;
+    position:absolute;
+    top: 820px;
+    left: 220px;
+    border-color: lightgray;
+
+  }
+  .down2{
+    border-radius: 5px;
+    border: 3px solid;
+    width: 150px;
+    height: 190px;
+    position:absolute;
+    top: 820px;
+    left: 390px;
+    border-color: lightgray;
+
+  }
+  .down3{
+    border-radius: 5px;
+    border: 3px solid;
+    width: 150px;
+    height: 190px;
+    position:absolute;
+    top: 820px;
+    left: 560px;
+    border-color: lightgray;
+
+  }
+
+  .gear{
+    position: absolute;
+    left: 1650px;
+    top: 60px;
+    height: 40px;
+    width: 40x;
+  }
+
+  .gear:hover{
+  background-color: lightgray;
+  }
+
+  .search{
+    position: absolute;
+    top: 56px;
+    left: 1450px;
+    height: 55px;
+    filter:brightness(1) ;
+  }
+  .search:hover{
+    filter:brightness(1.75) ;
+  }
+  .small{
+    -webkit-text-fill-color: gray
+  }
+
+  
+
+
