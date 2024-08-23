@@ -17,6 +17,13 @@
     margin-right: 400px;
     opacity: 1;
  }
+ .gaming{
+  height: 50px;
+  opacity: 1;
+  position: absolute;
+  left: 85px;
+  top: 120px;
+}
 
  
   
@@ -165,6 +172,12 @@
     -webkit-text-fill-color: gray
   }
 
-  
+  .gaming:hover{
+    opacity: 0.5;
+  }
+
+  .game{
+   float: left;
+  }
 
 
