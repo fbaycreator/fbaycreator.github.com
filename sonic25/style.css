@@ -1,0 +1,36 @@
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-family: 'Sonic';
+  }
+
+  .sonimg {
+    float: left;
+  }
+
+  @font-face {
+    font-family: Sonic;
+    src: url(sonic-1-hud-font.ttf);
+  }
+  
+  .downb {
+    position: absolute;
+    top: 30%;
+  }
+
+  p {
+    font-family: Sonic;
+    text-align: center;
+  }
+  
